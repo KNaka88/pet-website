@@ -1,0 +1,21 @@
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+    font-weight: lighter;
+    color: darkgreen;
+    text-decoration: underline;
+}
+
+ul {
+    font-size: 25px;
+
+}
+
+.imgsize {
+    width: 20%;
+    height: auto;
+    border-radius: 30%;
+}
