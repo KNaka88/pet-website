@@ -17,5 +17,13 @@ ul {
 .imgsize {
     width: 20%;
     height: auto;
-    border-radius: 30%;
+    border-radius: 60%;
+
+}
+.ugly {
+  color: salmon;
+  text-align: left;
+  display: block;
+
+
 }
